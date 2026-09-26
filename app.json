@@ -33,7 +33,7 @@
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "deplo"
+            "value": "deplo1_bot"
         }
     },
     "buildpacks": [
